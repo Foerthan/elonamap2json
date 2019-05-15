@@ -1,0 +1,85 @@
+{
+    "folders": {
+        "input": "./input/",
+        "output": "./output/"
+    },
+    "mapObjectIDs": {
+        "enabled": false,
+        "file": ""
+    },
+    "mapNPCIDs": {
+        "enabled": false,
+        "file": ""
+    },
+    "keyNames": {
+        "tiles": "tiles",
+        "width": "width",
+        "height": "height",
+        "depth": "depth",
+        "objects": "objects",
+        "objectList": {
+            "id": "id",
+            "x": "x",
+            "y": "y",
+            "prop": "prop",
+            "type": "type"
+        },
+        "units": "units",
+        "unitList": {
+            "id": "id",
+            "x": "x",
+            "y": "y",
+            "prop": "prop",
+            "type": "type"
+        },
+        "doors": "doors",
+        "doorsList": {
+            "id": "id",
+            "x": "x",
+            "y": "y",
+            "prop": "prop",
+            "type": "type",
+            "tile": "tile"
+        },
+        "interactables": "interactables",
+        "interactablesList": {
+            "id": "id",
+            "x": "x",
+            "y": "y",
+            "prop": "prop",
+            "type": "type",
+            "tile": "tile",
+            "use": "use"
+        },
+        "medals": "medals",
+        "medalsList": {
+            "id": "id",
+            "x": "x",
+            "y": "y",
+            "prop": "prop",
+            "type": "type"
+        },
+        "stairs": "stairs",
+        "stairsList": {
+            "id": "id",
+            "x": "x",
+            "y": "y",
+            "prop": "prop",
+            "type": "type",
+            "tile": "tile",
+            "use": "use"
+        },
+        "tileset": "tileset",
+        "traps": "traps",
+        "trapsList": {
+            "id": "id",
+            "x": "x",
+            "y": "y",
+            "prop": "prop",
+            "type": "type"
+        }
+    },
+    "defaultTileset": "tilemap1",
+    "verbosity": 3,
+    "readFromFile": false
+}

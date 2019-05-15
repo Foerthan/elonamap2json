@@ -1,0 +1,22 @@
+{
+  "name": "elonamap2json",
+  "version": "0.1.0",
+  "description": "Converts Elona's map format to JSON.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "Elona"
+  ],
+  "author": "Christopher Opiela",
+  "license": "ISC",
+  "dependencies": {
+    "pako": "^1.0.10",
+    "prompts": "^2.0.4"
+  }
+}
